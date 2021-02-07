@@ -1,0 +1,498 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+    .quotes2 .body .img .text {
+        top: 50px;
+        left: 25px;
+    }
+    .footer .ques img {
+        margin-top: -300px;
+    }
+    .footer .ques .text {
+        top: -200px;
+        left: 120px;
+    }
+    .footer-end h2 {
+        font-size: 20px;
+        margin-right: 40px;
+    }
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .features .text {
+        padding-left: 60px;
+    }
+    .features {
+        background: center;
+    }
+    .quotes .text {
+        top: 100px;
+        left: 100px;
+    }
+    .efficiency .text h2 {
+        font-size: 50px;
+    }
+    .efficiency .text span {
+        font-size: 13px;
+    }
+    .efficiency .text p {
+        font-size: 16px;
+    }
+    .quotes2 .body .img .text span {
+        font-size: 18px;
+    }
+    .quotes2 .body .img .text h3 {
+        font-size: 22px;
+    }
+    .quotes2 .body .img .text h2 {
+        font-size: 24px;
+    }
+    .quotes2 .body .img .text {
+        top: 170px;
+        left: 90px;
+    }
+    .quotes2 .body .img .text img {
+        padding-top: 300px;
+    }
+    .quotes2 .body .img {
+        margin-bottom: 50px;
+    }
+    .footer-top {
+        margin-top: 30px;
+    }
+    .footer .ques .text {
+        left: 70px;
+        top: -50px;
+    }
+    .footer .ques .text h2 {
+        margin-left: 10px;
+        font-size: 70px;
+        margin-bottom: 50px;
+    }
+    p.accordion {
+        padding: 14px;
+        margin-bottom: 0px;
+    }
+    div.panel.show {
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+    .footer .ques img {
+        margin-top: -165px;
+    }
+    .footer-end .menu {
+        margin-left: 10px;
+    }
+    .footer-end h2 {
+        font-size: 18px;
+        margin-right: 40px;
+    }
+    .design {
+        padding: 50px 0;
+    }
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    #mobile-menu {
+        display: none;
+    }
+    .slicknav_menu {
+        display: block;
+    }
+    .slicknav_btn {
+        background-color: #511de5;
+        font-size: 40px;
+    }
+    .slicknav_nav a {
+        color: #1a1a1a;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 400;
+        font-size: 30px;
+    }
+    .slicknav_nav a:hover{
+        color: #511de5;
+        text-decoration: underline;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 700;
+    }
+    .slicknav_menu {
+        background: #fff;
+    }
+    .header-area .button a {
+    font-size: 25px;
+    }
+    .header-area .button button {
+        height: 65px;
+        width: 200px;
+    }
+    .header-area .header-text button {
+        margin-left: 350px;
+    }
+    .header-area .text1 p {
+        font-size: 27px;
+    }
+    .header-area .header-text a {
+        font-size: 20px;
+    }
+    .features {
+        background: center;
+    }
+    .features .text {
+        padding-top: 145px;
+        padding-left: 25px;
+        padding-bottom: 170px;
+        margin-right: 150px;
+    }
+    .features h2 {
+        font-size: 45px;
+    }
+    .features span {
+        font-size: 25px;
+    }
+    .features h3 {
+        font-size: 90px;
+    }
+    .features h4 {
+        font-size: 25px;
+    }
+    .quotes {
+	padding-bottom: 100px;
+    }
+    .quotes .text {
+        top: 200px;
+        left: 180px;
+    }
+    .quotes button {
+        font-size: 18px;
+    }
+    .quotes .text p {
+        font-size: 40px;
+        margin: 0;
+        line-height: 50px;
+        margin-bottom: 30px;
+    }
+    .quotes .text span {
+        font-size: 27px;
+    }
+    .quotes h2 {
+        padding-top: 10px;
+        margin-top: 150px;
+    }
+    .efficiency img {
+        display: none;
+    }
+    .efficiency .text {
+        padding-bottom: 100px;
+    }
+    .efficiency .text h2 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .efficiency .text span {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .efficiency .text i {
+        margin-right: 18px;
+    }
+    .efficiency .text p {
+        font-size: 25px;
+        display: contents;
+    }
+    .efficiency .text i:nth-child(2n+1) {
+        font-size: 30px;
+    }
+    .efficiency .text i:nth-child(3n+1) {
+        font-size: 18px;
+    }
+    .efficiency .text i:nth-child(2n) {
+        margin-top: 40px;
+        font-size: 30px;
+    }
+    .efficiency .text button {
+        font-size: 18px;
+    }
+    .design .head h2 {
+        font-size: 54px;
+    }
+    .design .main img {
+        width: initial;
+    }
+    .design .main h2 {
+        font-size: 35px;
+    }
+    .design .head span {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .design .main span {
+        font-size: 22px;
+    }
+    .quotes2 {
+        padding: 61px 0;
+    }
+    .quotes2 .head h2 {
+        font-size: 50px;
+    }
+    .quotes2 .body .img .text {
+        top: 160px;
+        left: 40px;
+    }
+    .quotes2 .body .img {
+        margin-bottom: 50px;
+    }
+    .quotes2 .body .img .text h2 {
+        font-size: 22px;
+    }
+    .quotes2 .body .img .text h3 {
+        font-size: 20px;
+    }
+    .quotes2 .body .img .text span {
+        font-size: 18px;
+    }
+    .footer-top {
+        margin-top: 0px;
+    }
+    .footer .ques img {
+        margin-top: 10px;
+    }
+    .footer .ques .text {
+        top: 55px;
+        left: 40px;
+    }
+    .footer .ques .text h2 {
+        font-size: 38px;
+        margin-left: 0;
+        line-height: 55px;
+        margin-bottom: 50px;
+        display: ruby-base;
+        margin-top: 20px;
+    }
+    p.accordion {
+        padding: 10px;
+    }
+    div.panel.show {
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+    .footer .ques .text span {
+        font-size: 18px;
+    }
+    .mt70 {
+        margin-top: 45px;
+    }
+    .footer-end .menu {
+        margin-left: 0px;
+    }
+    .footer-end .menu ul li {
+        font-size: 20px;
+        margin-right: 40px;
+        margin-bottom: 15px;
+    }
+    .footer-end .menu ul li a {
+        margin-right: 10px;
+    }
+    .footer-end h2 {
+        font-size: 26px;
+        line-height: 40px;
+        margin-right: 0px;
+    }
+
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+    #mobile-menu {
+        display: none;
+    }
+    .slicknav_menu {
+        display: block;
+    }
+    .slicknav_btn {
+        background-color: #511de5;
+    }
+    .slicknav_nav a {
+        color:  #1a1a1a;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 400;
+    }
+    .slicknav_nav a:hover{
+        color: #511de5;
+        text-decoration: underline;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 700;
+    }
+    .slicknav_menu {
+        background: #fff;
+    }
+    .header-area .header-text .text {
+        margin-left: 60px;
+        margin-top: 150px;
+    }
+    .header-area .header-text .text p {
+        font-size: 35px;
+        line-height: 55px;
+    }
+    .header-area .header-text button {
+        margin-left: 200px;
+        margin-bottom: 430px;
+    }
+    .header-area .text1 p {
+        font-size: 18px;
+        padding-top: 100px;
+        padding-bottom: 35px;
+    }
+    .features {
+        background: center;
+    }
+    .features .text {
+        padding-top: 80px;
+        padding-left: 10px;
+        padding-bottom: 80px;
+    }
+    .features h2 {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .features h3 {
+        font-size: 60px;
+    }
+    .features h4 {
+        font-size: 20px;
+    }
+    .quotes .text {
+        top: 150px;
+        left: 130px;
+    }
+    .quotes h2 {
+        font-size: 40px;
+        line-height: 50px;
+        padding-top: 60px;
+    }
+    .quotes {
+        padding-top: 190px;
+        padding-bottom: 80px;
+    }
+    .efficiency .text {
+        padding-bottom: 40px;
+    }
+    .efficiency img {
+        display: none;
+    }
+    .design {
+        padding: 60px 0;
+    }
+    .design .main img {
+        width: initial;
+    }
+    .design .head h2 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .design .head span {
+        font-size: 20px;
+    }
+    .quotes2 {
+        padding: 50px 0;
+    }
+    .quotes2 .head h2 {
+        font-size: 50px;
+    }
+    .quotes2 .body .img .text {
+        top: 200px;
+        left: 75px;
+    }
+    .quotes2 .body .img .text h2 {
+        font-size: 25px;
+    }
+    .quotes2 .body .img .text img {
+        padding-top: 250px;
+    }
+    .quotes2 .body .img .text h3 {
+        font-size: 20px;
+    }
+    .quotes2 .body .img .text span {
+        font-size: 18px;
+    }
+    .quotes2 .body .img {
+        position: relative;
+        margin-bottom: 50px;
+    }
+    .footer .ques {
+        margin-bottom: 50px;
+    }
+    .footer .ques img {
+        margin-top: 200px;
+    }
+    .footer .ques .text {
+        top: 240px;
+        left: 30px;
+        margin-right: 40px;
+    }
+    .footer .ques .text h2 {
+        font-size: 25px;
+        margin-left: 0px;
+        margin-bottom: 10px;
+        line-height: 26px;
+        display: ruby-base;
+    }
+    p.accordion {
+        padding: 5px;
+    }
+    div.panel.show {
+        margin-top: 0;
+        margin-bottom: 0px;
+        font-size: 18px;
+    }
+    .footer .ques .text h3 {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .footer .ques .text span {
+        font-size: 14px;
+    }
+    .footer .ques .text h4 {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .mt70 {
+        margin-top: 10px;
+    }
+    .footer-end {
+        padding: 80px 0;
+    }
+    .footer-end h2 {
+        font-size: 16px;
+        margin-right: 35px;
+    }
+    .footer-top {
+        margin-top: -100px;
+    }
+ 
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+    .quotes {
+        padding-top: 100px;
+    }
+    .quotes2 .body .img .text {
+        left: 120px;
+    }
+    .quotes2 .body .img .text img {
+        padding-top: 320px;
+    }
+
+
+}
